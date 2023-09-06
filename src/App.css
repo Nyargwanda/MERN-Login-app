@@ -1,0 +1,41 @@
+/* App.css */
+
+/* Styling for the form container */
+.form-container {
+  padding: 30px 20px;
+  height: 500px;
+  width: 500px;
+  margin: 20px auto;
+}
+
+/* Styling for the form header */
+.form-header {
+  margin: 0;
+  font-weight: 800;
+}
+
+/* Styling for the input fields */
+.input-field {
+  margin-top: 15px;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Styling for the submit button */
+.submit-button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Styling for the submit button on hover */
+.submit-button:hover {
+  background-color: #0056b3;
+}
